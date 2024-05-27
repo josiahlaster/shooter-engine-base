@@ -5,7 +5,7 @@ description: Base for JS Space Shooter Game Engine Tutorial
 authors:
   - Kevin Epps
 resources:
-  - https://rawgit.com/photonstorm/phaser-ce/master/build/phaser.min.js
+  - https://digital-brilliance-hour.github.io/phaser-shooter-base/js/phaser-arcade-physics.min.js
 normalize_css: no
 lang_css: CSS
 ...
