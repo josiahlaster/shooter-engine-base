@@ -1,5 +1,3 @@
-/*
----
 name: Space Shooter Engine Tutorial
 description: Base for JS Space Shooter Game Engine Tutorial
 authors:
@@ -8,7 +6,3 @@ resources:
   - https://digital-brilliance-hour.github.io/phaser-shooter-base/js/phaser-arcade-physics.min.js
 normalize_css: no
 lang_css: CSS
-...
-*/
-
-<p>This demo will show you how to: build object oriented game.</p> 
